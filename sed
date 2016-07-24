@@ -1,0 +1,15 @@
+Harper Lee
+George Orwell
+Suzanne Collins
+Dan Brown
+J.D. Salinger
+J.K. Rowling
+George Orwell
+Khaled Hosseini
+J.R.R. Tolkien
+Dan Brown
+Ray Bradbury
+Neil Gaiman
+Ernest Hemingway
+Mary Shelley
+Mark Twain
